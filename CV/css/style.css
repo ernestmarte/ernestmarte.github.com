@@ -1,0 +1,72 @@
+.fondo{
+  background-color: #0e50ba;
+  color: white;
+  text-align: center;
+  font-family: Pacifico;
+  padding: 16px;
+
+
+
+}
+
+.lado{
+  display: inline-block;
+  width: 400px;
+}
+
+.fondodiv1{
+  background-color: #d847b4;
+  color: black;
+  text-align: center;
+  font-family: Mali;
+  padding: 11px;
+}
+
+.margenes{
+  margin: 0;
+}
+
+.contenidov1{
+  width: 960px;
+  height: 200px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.titulo{
+  font-size: 31px;
+  display: inline-block;
+  width: 65%;
+  display: inline-block;
+
+}
+
+.filav1{
+  font-size: 19px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.filav2{
+  font-size: 15px;
+  margin-bottom: 18px;
+  margin-top: 8px;
+  font-family: cursive;
+}
+
+.space{
+  margin-top: 80px;
+
+}
+
+.ulline{
+  padding: 0px;
+  font-family: Mali;
+  font-size: 15px;
+}
+
+.arreglo{
+  display: inline-block;
+  width: 68%
+}
